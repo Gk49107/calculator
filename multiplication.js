@@ -7,3 +7,5 @@ result = a*b
  document.getElementById("result").value = result
 
 }
+hii have a nice day
+
